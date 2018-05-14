@@ -1,5 +1,5 @@
 # make_release_with_git
-easy tool to make package or file patch tar.gz package for softwares 
+easy tool to make package or modified files to a tar.gz package for softwares 
 # prerequests
  - git
  - tar
