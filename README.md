@@ -13,7 +13,7 @@ easy tool to make package or modified files to a tar.gz package for softwares
  - Test OK
    - make a patch package 
      - ```
-       make_release_with_git.sh get-patch your-file-path ver01 "this is the new version"
+       make_release_with_git.sh get-patch your-file-path ver01 ver02
        ```
  - TODO
    - add new version software files
