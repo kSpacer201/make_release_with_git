@@ -15,6 +15,7 @@ easy tool to make package or modified files to a tar.gz package for softwares
      - ```
        make_release_with_git.sh get-patch your-file-path ver01 ver02
        ```
+     - then find your package in dir -> __release
  - TODO
    - add new version software files
      - ```
